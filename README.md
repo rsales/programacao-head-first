@@ -1,5 +1,5 @@
 <div style="text-align: center;">
-  <img src="http://www.headfirstlabs.com/Images/newbanner.png">
+  <img src="https://imgur.com/a/Bt1Aa">
 </div>
 
 # Programação - Book Head First
