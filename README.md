@@ -1,5 +1,5 @@
 <div style="text-align: center;">
-  <img src="https://imgur.com/a/Bt1Aa">
+  <img src="http://i.imgur.com/BmsWn8L.png">
 </div>
 
 # Programação - Book Head First
