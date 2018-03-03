@@ -6,7 +6,7 @@ if guess == 5:
   print("You win!")
 else:
   if guess > 5:
-    print("You high")
+    print("Too high")
   else:
     print("Too low")
 print("Game over!")
