@@ -1,5 +1,7 @@
 <div style="text-align: center;">
-  <img src="http://i.imgur.com/BmsWn8L.png">
+  <img src="https://i.imgur.com/BmsWn8L.png">
 </div>
 
-# Programação - Book Head First
+# Book - Head First Programming
+
+Repository based on the book [Head First Programming](http://www.headfirstlabs.com/books/hfprog/).
